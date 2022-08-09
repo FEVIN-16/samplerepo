@@ -1,0 +1,78 @@
+
+.header{
+    background-color:#141A46;
+    height: 80px;
+}
+.icon{
+    float:left;
+    color: whitesmoke;
+    padding-left: 40px;
+    width: 15%;
+}
+.navbar{
+    /* background-color: hotpink; */
+    height: 50px;
+    padding-top: 25px;
+    float:right;
+}
+.navbar a{
+    padding: 14px 18px;
+    text-decoration: none;
+    color: whitesmoke;
+    /* background-color: hotpink; */
+}
+.navbar a:hover{
+    color: crimson;
+}
+.navbar a.active{
+    background-color: whitesmoke;
+    color: black;
+}
+.session{
+    background-color:whitesmoke;
+    height: 1000px;
+    width: 90%;
+    margin: auto;
+}
+.part1{
+    height: 800px;
+    background-image: url("watch2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.part2{
+    height: 200px;
+    background-color: #141A46;
+    display: flex;
+}
+.block1{
+    background-color: whitesmoke;
+    height: 85%;
+    width:25%;
+    text-align: center;
+    margin: auto;
+    
+}
+.block2{
+    background-color: whitesmoke;
+    height: 85%;
+    width:40%;
+    text-align: center;
+    margin: auto;
+}
+.block3{
+    background-color: whitesmoke;
+    height: 85%;
+    width:25%;
+    text-align: center;
+    margin: auto;
+}
+.footer{
+    background-color: #141A46;
+    height: 80px;
+    padding-top: 16px;
+    text-align: center;
+    color: whitesmoke;
+
+}
